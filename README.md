@@ -2,7 +2,7 @@
 
 [![Linkedin Badge](https://img.shields.io/badge/-philnichol-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/phil-nichol-0aa14a55/)](https://www.linkedin.com/in/phil-nichol-0aa14a55/)
 
-I'm a London-based Cloud Platform Engineer at ComparetheMarket.com ([we're hiring](https://www.bglgroup.co.uk/careers/search-and-apply?brand=comparethemarket.com)), working mostly with AWS, kubernetes, terraform and golang.
+I'm a London-based Cloud Platform Engineer at ComparetheMarket.com ([we're hiring](https://www.bglgroup.co.uk/careers/search-and-apply?brand=comparethemarket.com)), working mostly with AWS, kubernetes, terraform, helm and golang.
 
 <!--
 **philnichol/philnichol** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
