@@ -22,8 +22,10 @@ Here are some ideas to get you started:
 
 ### 🌱 I’m currently learning
 - [Software Design Patterns](https://refactoring.guru/design-patterns)
+- [Concurrency in Go](https://www.oreilly.com/library/view/concurrency-in-go/9781491941294/)
 
 ### 🚀 Recent Opensource Contributions
+- [philnichol/terraform-provider-commonips](https://registry.terraform.io/providers/philnichol/commonips/latest/docs) Allows retrieving common IP ranges, such as Cloudflare, without requiring a token.
 - [fluxcd/flagger](https://github.com/fluxcd/flagger/commits?author=philnichol)
 - [aws-controllers-k8s/code-generator](https://github.com/aws-controllers-k8s/code-generator/commits?author=philnichol)
 - [fluxcd/terraform-provider-flux](https://github.com/fluxcd/terraform-provider-flux/commits?author=philnichol)
