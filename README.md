@@ -22,4 +22,4 @@ Here are some ideas to get you started:
 
 ### 🌱 I’m currently learning
 - [Software Design Patterns](https://refactoring.guru/design-patterns)
-- [Concurrency in Go](https://www.oreilly.com/library/view/concurrency-in-go/
+- [Concurrency in Go](https://www.oreilly.com/library/view/concurrency-in-go/)
